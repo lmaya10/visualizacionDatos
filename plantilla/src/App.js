@@ -43,7 +43,7 @@ class App extends Component {
       <br/>
       <br/>
       
-      {this.state.amount>=1 && 
+      {this.state.amount >=1 && 
         <div className="container">
           <div className = "row">
           </div>

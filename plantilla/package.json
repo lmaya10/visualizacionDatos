@@ -4,6 +4,7 @@
   "private": true,
   "dependencies": {
     "bootstrap": "^4.3.1",
+    "mdbreact": "^4.20.0",
     "navio": "0.0.60",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
@@ -29,5 +30,6 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "proxy":"http://localhost:3001"
 }
